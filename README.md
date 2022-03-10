@@ -1,5 +1,5 @@
 # STATS220
-Hi, this is Vivi Fu! :blush:
+Hi, this is Vivi Fu! :blush:     
 This page is used for my [STATS220](https://8viviv8.github.io/stats220/) aasignments.
 
 ## Assignment 1
