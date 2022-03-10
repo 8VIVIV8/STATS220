@@ -2,6 +2,15 @@
 
 ![](meme.png)
 
+## About my meme   
+Being a Computer Science student, I had experiences in using different coding language.     
+- Sometimes I generate an error and start to debug.       
+- Sometimes I write a bunch of code that I'm not sure about it but it works fine. 
+
+This meme perfectly describes those funny situations I use to have.      
+So I decided to remake it and using ***R package {magick}***.     
+I found the picture from the [here](https://imgflip.com/memetemplate/Computer-Guy). 
+
 ## My R code 
 
 ```
@@ -58,13 +67,4 @@ meme <- image_append(c(part1, part2),
 image_write(meme, "meme.png")
 }
 ```
-## About my meme
-Being a Computer Science student, I had experiences in using different coding language. 
 
-- Sometimes I generate an error and start to debug. 
-
-- Sometimes I write a bunch of code that I'm not sure but it works. 
-
-This meme perfectly describes the funny situations I use to have. 
-
-I found the picture from the [here](https://imgflip.com/memetemplate/Computer-Guy). 
